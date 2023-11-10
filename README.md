@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded)](https://github.com/FenixReloaded/github-readme-stats)
+![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&hide=contribs,prs)
+![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true)
+![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=radical)
