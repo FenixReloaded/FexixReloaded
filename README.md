@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 
-[![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded)](https://github.com/FenixReloaded/github-readme-stats&theme=dark).
-![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=radical)
+
+![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded&show_icons=true&theme=shades-of-purple)
 
