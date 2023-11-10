@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats,&theme=dark).
+[![FenixReloaded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixReloaded)](https://github.com/FenixReloaded/github-readme-stats,&theme=dark).
 
